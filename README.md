@@ -24,7 +24,7 @@ So, what are some important use cases?
 
 ## Healthcare and life sciences
 
-> Better serve your patients and insurers by extracting important patient data from health intake forms, insurance claims, and pre-authorization forms. Keep data organized and in its original context, and eliminate manual review of output.
+> Better serve your patients and insurers by extracting important patient data from health intake forms, insurance claims, and pre-authorization forms. Keep data organized and in its original context, and eliminate manual review of output. 
 
 ## Public sector
 
