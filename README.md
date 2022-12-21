@@ -1,7 +1,7 @@
 # AWS Textract Tutorial
 
 <p align='center'>
-    <img src="https://raw.githubusercontent.com/yiqiao-yin/aws-textract-tutorial/main/diagram/textract-diagram-v7.png" width=630 height=450></img>
+    <img src="https://raw.githubusercontent.com/yiqiao-yin/aws-textract-tutorial/main/diagram/textract-diagram-v8.png" width=630 height=450></img>
 </p>
 
 ## Background: OCR
