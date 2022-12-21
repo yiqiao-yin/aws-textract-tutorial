@@ -1,7 +1,7 @@
 # AWS Tutorial
 
 <p align='center'>
-    <img src="https://raw.githubusercontent.com/yiqiao-yin/aws-textract-tutorial/main/diagram/textract-diagram.png" width=600 height=430></img>
+    <img src="https://raw.githubusercontent.com/yiqiao-yin/aws-textract-tutorial/main/diagram/textract-diagram-v3.png" width=630 height=450></img>
 </p>
 
 ## Background: OCR
@@ -35,6 +35,17 @@ You can read more about **AWS Textract** [here](https://aws.amazon.com/textract/
 ## What is in this repo?
 
 This is an introductory github repo to save materials used to create the above pipeline which includes many building blocks of AWS services. The repo intends to build a fundamental understanding of how to put together a few AWS resources. The topic is to use `textract` function from **AWS** to allow users to upload `.pdf` files to trigger **Lambda functions**.
+
+You will learn:
+
+1. **S3 Bucket**: Amazon Simple Storage Service (Amazon S3) is an object storage service offering industry-leading scalability, data availability, security, and performance. Customers of all sizes and industries can store and protect any amount of data for virtually any use case, such as data lakes, cloud-native applications, and mobile apps. With cost-effective storage classes and easy-to-use management features, you can optimize costs, organize data, and configure fine-tuned access controls to meet specific business, organizational, and compliance requirements. Link is [here](https://aws.amazon.com/s3/).
+
+2. **AWS Lambda**: AWS Lambda is a serverless, event-driven compute service that lets you run code for virtually any type of application or backend service without provisioning or managing servers. You can trigger Lambda from over 200 AWS services and software as a service (SaaS) applications, and only pay for what you use. Use Amazon Simple Storage Service (Amazon S3) to trigger AWS Lambda data processing in real time after an upload, or connect to an existing Amazon EFS file system to enable massively parallel shared access for large-scale file processing. Link is [here](https://aws.amazon.com/lambda/#:~:text=AWS%20Lambda%20is%20a%20serverless,pay%20for%20what%20you%20use.).
+
+3. **Textract**: It allows us to extract text and structured data such as tables and forms from documents using artificial intelligence (AI)—no configuration or templates necessary. The function goes beyond simple optical character recognition (OCR) by extracting relationships, structure, and text from documents. See more from [here](https://aws.amazon.com/textract/).
+
+4. **Simple Notification Service (SNS)**: Amazon Simple Notification Service (SNS) sends notifications two ways, A2A and A2P. A2A provides high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications. These applications include Amazon Simple Queue Service (SQS), Amazon Kinesis Data Firehose, AWS Lambda, and other HTTPS endpoints. A2P functionality lets you send messages to your customers with SMS texts, push notifications, and email. Link is [here](https://aws.amazon.com/sns/). 
+
 
 ## Other References
 
